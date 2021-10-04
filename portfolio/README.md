@@ -1,3 +1,7 @@
+Portfolio project made with React and styled components.
+
+The purpose of this project was to practice developing with React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
